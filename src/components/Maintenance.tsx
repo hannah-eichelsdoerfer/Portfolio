@@ -20,7 +20,7 @@ const Maintenance = () => {
             </RoughNotation>
           </Link>{" "}
           or connect with me on{" "}
-          <Link href="https://www.linkedin.com/in/hannah-eich/">
+          <Link href="https://www.linkedin.com/in/hannah-eichelsdoerfer/">
             <RoughNotation type="underline" color="#F8C81B" padding={[5, 10]}>
               LinkedIn
             </RoughNotation>
