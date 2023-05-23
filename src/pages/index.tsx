@@ -20,7 +20,7 @@ export default function Home() {
           property="og:description"
           content="Fullstack Developer, visit my portfolio page to view my contact info, resume, and projects"
         />
-        <meta property="og:image" content="/images/portolio.png" />
+        <meta property="og:image" content="/images/portfolio.png" />
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="1024" />
         <meta property="og:image:height" content="1024" />
