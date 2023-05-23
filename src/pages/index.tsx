@@ -18,7 +18,7 @@ export default function Home() {
         <meta property="og:title" content="Hannah Eich Portfolio" />
         <meta
           property="og:description"
-          content="Fullstack Developer, visit my portfolio page to view my contact info, resume, and projects"
+          content="Fullstack Developer - visit my portfolio page to view my contact info, resume, and projects"
         />
         <meta property="og:image" content="/images/portfolio.png" />
         <meta property="og:image:type" content="image/png" />
