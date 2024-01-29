@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Google IT Automation with Python",
+    "date": "October 2022 - June 2023",
+    "description": "Google Certificate scholarship, in partnership with Code Like a Girl",
+    "modules": [
+      {
+        "title": "Crash Course on Python",
+        "description": "Learn the basics of Python programming."
+      },
+      {
+        "title": "Using Python to Interact with the Operating System",
+        "description": "Learn how to use Python to write programs that do in minutes what would take you hours to do by hand - no prior programming experience required."
+      },
+      {
+        "title": "Introduction to Git and GitHub",
+        "description": "Learn how to use Git and GitHub."
+      },
+      {
+        "title": "Troubleshooting and Debugging Techniques",
+        "description": "Learn how to approach debugging programs systematically, and how to automate the debugging process."
+      },
+      {
+        "title": "Configuration Management and the Cloud",
+        "description": "Learn how to automate and configure applications using Ansible."
+      },
+      {
+        "title": "Automating Real-World Tasks with Python",
+        "description": "Learn how to use Python scripts to automate tasks."
+      }
+    ],
+    "extra": "This course covers various essential skills for IT Specialists, including file and process manipulation, regular expressions, Linux command line usage (Qwiklabs), log file processing, Python programming, file I/O, subprocesses, input streams, Bash scripting, automatic testing, data processing, report generation, and setting up a developer environment for automation tools."
+  },
+  {
+    "title": "Mobile Device Software Development",
+    "date": "March 2023 - June 2024",
+    "description": "Description of what you learned in University Course 2."
+  },
+  {
+    "title": "Database Design",
+    "date": "March 2023 - June 2024",
+    "description": "Description of what you learned in University Course 2."
+  },
+  {
+    "title": "Computer Systems and Networks",
+    "date": "March 2023 - June 2024",
+    "description": "Description of what you learned in University Course 2."
+  },
+  {
+    "title": "Programming Principles 1",
+    "date": "March 2023 - June 2024",
+    "description": "Description of what you learned in Programming Principles 1."
+  },
+  {
+    "title": "Interactive Design",
+    "date": "July 2022 - November 2022",
+    "description": "Description of what you learned in Programming Principles 1."
+  },
+  {
+    "title": "Systems Development",
+    "date": "July 2022 - November 2022",
+    "description": "Description of what you learned in University Course 2."
+  },
+  {
+    "title": "Introduction to Information Systems",
+    "date": "July 2022 - November 2022",
+    "description": "Description of what you learned in University Course 2."
+  },
+  {
+    "title": "Fundamentals of Blockchain and Distributed Ledger Technology",
+    "date": "July 2022 - November 2022",
+    "description": "Description of what you learned in University Course 2."
+  },
+  {
+    "title": "Coding Certificate 1",
+    "date": "March 2022 - April 2022",
+    "description": "Description of what you learned in Coding Certificate 1."
+  }
+]

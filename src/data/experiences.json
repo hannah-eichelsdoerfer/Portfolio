@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "logo": "con-cubo-gmbh-logo.png",
+    "position": "Full Stack Developer",
+    "company": "Con Cubo GmbH",
+    "duration": "Sep 2021 - Present · 1 yr 9 mos",
+    "location": "Remote",
+    "skills": [
+      "Vercel",
+      "React.js",
+      "TypeScript",
+      "Next.js",
+      "MongoDB",
+      "Node.js",
+      "GitHub",
+      "Full-Stack Development",
+      "Express.js"
+    ]
+  },
+  {
+    "id": 2,
+    "logo": "le-wagon-logo.png",
+    "position": "Teaching Assistant",
+    "company": "Le Wagon · Freelance",
+    "duration": "Jan 2023 - Feb 2023 · 1 mos",
+    "location": "Melbourne, Victoria, Australia · Hybrid",
+    "skills": [
+      "Rails",
+      "Knowledge Sharing",
+      "JavaScript",
+      "Ruby on Rails",
+      "Ruby",
+      "SQL"
+    ]
+  },
+  {
+    "id": 3,
+    "logo": "le-wagon-logo.png",
+    "position": "Teacher",
+    "company": "Le Wagon",
+    "duration": "Jan 2022 - Jun 2022 · 6 mos",
+    "location": "Berlin, Germany",
+    "skills": ["JavaScript", "Ruby on Rails"]
+  }
+]
